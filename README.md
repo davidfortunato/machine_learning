@@ -100,13 +100,13 @@ Important Concepts:
 ## Figures and Tables
 
 ![Figure 1](Images/figure1.png)
-![Figure 2](images/figure2.png)
-![Figure 3](images/figure3.png)
-![Figure 4](images/figure4.png)
-![Figure 5](images/figure5.png)
-![Table 1](images/table1.png)
-![Table 2](images/table2.png)
-![Table 3](images/table3.png)
+![Figure 2](Images/figure2.png)
+![Figure 3](Images/figure3.png)
+![Figure 4](Images/figure4.png)
+![Figure 5](Images/figure5.png)
+![Table 1](Images/table1.png)
+![Table 2](Images/table2.png)
+![Table 3](Images/table3.png)
 
 
 
