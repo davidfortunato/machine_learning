@@ -105,8 +105,8 @@ Important Concepts:
 ![Figure 4](Images/figure4.png)
 ![Figure 5](Images/figure5.png)
 ![Table 1](Images/table1.png)
-![Table 2](Images/table2.png)
-![Table 3](Images/table3.png)
+![Table 2](Images/Table2.png)
+![Table 3](Images/Table3.png)
 
 
 
