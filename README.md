@@ -99,7 +99,7 @@ Important Concepts:
 
 ## Figures and Tables
 
-![Figure 1](images/figure1.png)
+![Figure 1](Images/figure1.png)
 ![Figure 2](images/figure2.png)
 ![Figure 3](images/figure3.png)
 ![Figure 4](images/figure4.png)
