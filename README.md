@@ -1,3 +1,5 @@
+# To Grant or Not To Grant: Machine Learning Project Group 01 (2024/25)
+
 # 1	Abstract
 The goal of this project, which was created for the New York Workers' Compensation Board (WCB), was to use a large dataset to build a machine learning model that could predict and categorize the different kinds of injury claims. These classifications were formerly done by hand, which raised questions regarding bias and efficiency. This project aimed to increase accuracy, automate decision-making, and offer insights into the variables affecting each class of claims by utilizing machine learning.
 
